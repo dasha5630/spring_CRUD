@@ -1,0 +1,9 @@
+ru\tdv\model\Film.class
+ru\tdv\config\WebConfig.class
+ru\tdv\dao\FilmDAO.class
+ru\tdv\config\AppInitializer.class
+ru\tdv\service\FilmServiceImpl.class
+ru\tdv\dao\FilmDAOImpl.class
+ru\tdv\config\HibernateConfig.class
+ru\tdv\service\FilmService.class
+ru\tdv\controllers\FilmController.class

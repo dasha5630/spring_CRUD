@@ -1,0 +1,37 @@
+
+body{
+    background: url(image.jpg) no-repeat;
+}
+
+form{
+    background: url(image.jpg) no-repeat;
+}
+
+label{
+    background: #B1B9D9;
+
+}
+input{
+    background: #B1B9D9;
+
+}
+
+table {
+    border-spacing: 0 10px;
+    font:  bold 100% Georgia, serif;
+    margin: 40px auto;
+    text-shadow: 5px 5px 5px #3F3F7F;
+    background: #B1B9D9;
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+    border: 10px solid blue;
+}
+
+tr{
+    background: #B1B9D9;
+}
+
+a {
+    background: #B1B9D9;
+}
